@@ -16,8 +16,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/School_of_rock.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-7660">
-              <caret line="563" lean-forward="true" selection-start-line="563" selection-end-line="563" />
+            <state relative-caret-position="-1504">
+              <caret line="805" lean-forward="true" selection-start-line="805" selection-end-line="805" />
               <folding>
                 <element signature="e#67#89#0" expanded="true" />
               </folding>
@@ -149,6 +149,10 @@
       <replace>new_chapter()</replace>
     </replaceStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -179,9 +183,9 @@
         <option value="$PROJECT_DIR$/printing.py" />
         <option value="$PROJECT_DIR$/ascii.py" />
         <option value="$PROJECT_DIR$/center.txt" />
-        <option value="$PROJECT_DIR$/School_of_rock.py" />
         <option value="$PROJECT_DIR$/instructions.py" />
         <option value="$PROJECT_DIR$/screenSetup.py" />
+        <option value="$PROJECT_DIR$/School_of_rock.py" />
       </list>
     </option>
   </component>
@@ -208,6 +212,7 @@
       </profile-state>
     </entry>
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -217,8 +222,8 @@
   <component name="PropertiesComponent">
     <property name="ToolWindowPython Console.ShowToolbar" value="false" />
     <property name="full.screen.before.presentation.mode" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/screen.py" />
-    <property name="settings.editor.selected.configurable" value="Errors" />
+    <property name="last_opened_file_path" value="C:/Program Files/Git/cmd/git.exe" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -379,12 +384,11 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4992908" weight="0.1097158" />
       <window_info id="Structure" order="1" sideWeight="0.5006321" visible="true" weight="0.12227363" />
       <window_info id="Favorites" order="2" sideWeight="0.50070924" weight="0.15730338" />
-      <window_info anchor="bottom" id="Version Control" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="0" weight="0.3297587" />
       <window_info anchor="bottom" x="0" y="23" width="1536" height="841" id="Python Console" order="1" type="WINDOWED" weight="0.32885906" />
       <window_info anchor="bottom" id="Terminal" order="2" weight="0.32885906" />
       <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" weight="0.3297587" />
@@ -494,8 +498,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/School_of_rock.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7660">
-          <caret line="563" lean-forward="true" selection-start-line="563" selection-end-line="563" />
+        <state relative-caret-position="-1504">
+          <caret line="805" lean-forward="true" selection-start-line="805" selection-end-line="805" />
           <folding>
             <element signature="e#67#89#0" expanded="true" />
           </folding>
