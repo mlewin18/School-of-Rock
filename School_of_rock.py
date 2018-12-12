@@ -11,9 +11,7 @@ from instructions import *
 from time import *
 import random
 
-
 terminal = '>>> '
-
 start_time = perf_counter()
 death_count = 0
 call_count = 0
@@ -22,15 +20,15 @@ mvmnt_count = 0
 found_items = []
 
 test = False
-cent = 105
 chapNum = 0.0
 callNum = 0
 y = 0.0
 events = []
 listedItemNumbers = []
+actions = []
 yes = ['Yes', 'Y', 'Yep', 'Sure']
 no = ['No', 'N', 'Nope', 'Nah']
-actions = []
+chptrlist = [0, 0.1]
 POlst = [
     'Archer, Jennifer - 8469        Bhik-Ghanie, Rebecca - 2193 ',
     'Bardo, Lucy - 6686             Bevan, John - 1346          ',
@@ -62,7 +60,6 @@ voiceOnThePhone = [
     It's pretty simple, just find the closest sharp object an swallow it.
     """
 ]
-chptrlist = [0, 0.1]
 
 
 def phone_call(setup):
@@ -252,7 +249,6 @@ def credits():
 
     for i in range(50):
         Type('\n', lag=0.8)
-
 
 # /////////////////////////////////////////[CHOICES]////////////////////////////////////////////
 
@@ -799,7 +795,6 @@ def new_chapter():
         Type("Invalid chapter", 0)
     print()
     #  'Look', 'Feel', 'hear', 'Taste', 'Smell', 'Move'
-
 
 # /////////////////////////////////////////[CHAPTER FUNCTIONS]////////////////////////////////////////////
 
