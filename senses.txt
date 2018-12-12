@@ -1,0 +1,61 @@
+0.1Look   There's not a cloud in the sky.
+0.1Look   You're surrounded by tree tops and two cement pillars...
+0.1Look   You're on a roof.
+0.1Look   Goddamn it.
+0.1Look   Not again.
+0.2Look   At your feet is a trap door and the roof to your left looks low enough to climb off.
+1.1Look   A hallway with three doors lies in front of you.
+1.1Look   One door lies open, one is closed, and at the end of the hall is one marked 'exit'.
+1.2Look   The name on the door reads "Marina Barsky".
+1.5Look   It looked like a well equipped science classroom complete with a hermetically sealed door.
+1.5Look   On the black board is a design for something called Piggly 3.
+2.1Look   Behind you is an odd shaped building with lettering reading Fisher Science and Academic Center.
+2.1Look   Readings show that the doors are definitely locked from the inside.
+3.1Look   The building in front of you has only one visible entrance.
+3.1Look   It's marked "Emergency Exit, alarm will sound".
+5.1Look   The large recreational building looms over you like a large recreational building.
+
+0.1Feel   Your right leg aches.
+0.1Feel   Badly.
+1.1Feel   Ooga-chaka Ooga-Ooga
+1.1Feel   Ooga-chaka Ooga-Ooga
+1.1Feel   Ooga-chaka Ooga-Ooga
+1.1Feel   Ooga-chaka Ooga-Ooga
+2.1Feel   Your right leg still aches.
+3.1Feel   The symphony of pains in your leg is joined by a cacophony of stomach cramps.
+3.1Feel   Et tu Brute?
+
+0.1Hear   Ringing...
+0.1Hear   Is somebody gonna get that?
+0.1Hear   Yes, hello, it's tinnitus calling collect.
+2.1Hear   A bird squawks. A phone rings. A radio plays.
+3.1Hear   It's quiet...
+3.1Hear   Too quiet!
+3.1Hear   Or not.
+3.1Hear   Who knows.
+5.1Hear   Between your stomach rumbling, your ears ringing, and your blood pumping it sounds kind of like time square!
+
+0.1Taste  Huh...
+0.1Taste  This must be how Oscar The Grouch feels.
+0.2Taste  Mmm.
+0.2Taste  A piece of brisket was stuck in your teeth.
+1.1Taste  Hmmm, your parched.
+1.1Taste  Hey, that beaker over there has some funny colored water in it!
+2.1Taste  You grab a baby bird out of mid-air and bite it's head off.
+2.1Taste  That really hit the spot!
+4.1Taste  The smell is a taste too!
+5.1Taste  You pick up a small rock and pop it in your mouth.
+5.1Taste  Yum, at least you still have your sanity!
+
+0.1Smell  Is that charcoal?
+0.1Smell  Hey....
+0.1Smell  Wait a second...
+0.1Smell  IT'S YOU!
+0.1Smell  Your skin is searing on the hot metal you're lying on!
+1.1Smell  Gas.
+1.1Smell  Eh.
+1.1Smell  It's probably fine.
+1.2Smell  It smells russian in here.
+3.1Smell  As bad as it smells now something tells you it wasn't all that great to begin with.
+3.6Smell  As bad as it smells now something tells you it wasn't all that great to begin with.
+5.1Smell  All you can smell is the inside of your nose.

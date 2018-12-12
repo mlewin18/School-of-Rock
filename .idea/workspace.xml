@@ -1,0 +1,506 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2a87a0a2-2e52-4770-8936-fd93f9346069" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="School of Rock" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/School_of_rock.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-7660">
+              <caret line="563" lean-forward="true" selection-start-line="563" selection-end-line="563" />
+              <folding>
+                <element signature="e#67#89#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/instructions.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="641">
+              <caret line="67" selection-start-line="67" selection-end-line="67" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/printing.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1120">
+              <caret line="70" lean-forward="true" selection-start-line="70" selection-end-line="70" />
+              <folding>
+                <element signature="e#0#25#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ascii.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-991">
+              <caret line="656" selection-start-line="656" selection-end-line="656" />
+              <folding>
+                <element signature="e#0#4#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/screenSetup.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/senses.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-335">
+              <caret line="1" column="6" lean-forward="true" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/movements.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/center.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>feet a sharp pain shoots through your right leg. It feels fract</find>
+      <find>as you cli</find>
+      <find>movements</find>
+      <find>sprint_no_center</find>
+      <find>new sec</find>
+      <find>/!</find>
+      <find>input</find>
+      <find>top</find>
+      <find>i1</find>
+      <find>actions</find>
+      <find>Listen</find>
+      <find>choicetext</find>
+      <find>(</find>
+      <find>:</find>
+      <find>: |</find>
+      <find>-</find>
+      <find>) :</find>
+      <find>]</find>
+      <find>|</find>
+      <find>death</find>
+      <find>man</find>
+      <find>sprint</find>
+      <find>cenprint</find>
+      <find>act</find>
+      <find>new_chapter(chptrlist[-1])</find>
+      <find>fall off</find>
+      <find>for</find>
+      <find>croutons</find>
+      <find>3.5</find>
+      <find>105</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+      <replace>sense</replace>
+      <replace>movements</replace>
+      <replace>senses</replace>
+      <replace>sprint</replace>
+      <replace>fprint</replace>
+      <replace>lprint</replace>
+      <replace>wait</replace>
+      <replace>3.5</replace>
+      <replace>bott</replace>
+      <replace>hear</replace>
+      <replace>Hear</replace>
+      <replace>:</replace>
+      <replace>0 :</replace>
+      <replace>0 : |</replace>
+      <replace>--</replace>
+      <replace>Type</replace>
+      <replace>new_chapter()</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/School_of_rock_actions.py" />
+        <option value="$PROJECT_DIR$/School_of_rock_inventory.py" />
+        <option value="$PROJECT_DIR$/actions.py" />
+        <option value="$PROJECT_DIR$/action_code.py" />
+        <option value="$PROJECT_DIR$/(0)SchoolOfRock.txt" />
+        <option value="$PROJECT_DIR$/choices.py" />
+        <option value="$PROJECT_DIR$/inventory.py" />
+        <option value="$PROJECT_DIR$/options.py" />
+        <option value="$PROJECT_DIR$/senses.py" />
+        <option value="$PROJECT_DIR$/movements.py" />
+        <option value="$PROJECT_DIR$/senses" />
+        <option value="$PROJECT_DIR$/Intro.py" />
+        <option value="$PROJECT_DIR$/move test.py" />
+        <option value="$PROJECT_DIR$/movetest.py" />
+        <option value="$PROJECT_DIR$/screen.py" />
+        <option value="$PROJECT_DIR$/test.py" />
+        <option value="$PROJECT_DIR$/Secrets, Secrets.py" />
+        <option value="$PROJECT_DIR$/titles.py" />
+        <option value="$PROJECT_DIR$/Printing.py" />
+        <option value="$PROJECT_DIR$/help.py" />
+        <option value="$PROJECT_DIR$/senses.txt" />
+        <option value="$PROJECT_DIR$/ReadMe.py" />
+        <option value="$PROJECT_DIR$/movements.txt" />
+        <option value="$PROJECT_DIR$/Screen setup.py" />
+        <option value="$PROJECT_DIR$/printing.py" />
+        <option value="$PROJECT_DIR$/ascii.py" />
+        <option value="$PROJECT_DIR$/center.txt" />
+        <option value="$PROJECT_DIR$/School_of_rock.py" />
+        <option value="$PROJECT_DIR$/instructions.py" />
+        <option value="$PROJECT_DIR$/screenSetup.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-90" />
+    <option name="y" value="-25" />
+    <option name="width" value="1945" />
+    <option name="height" value="1105" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>Python</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>PyPep8NamingInspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ToolWindowPython Console.ShowToolbar" value="false" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/screen.py" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.School_of_rock">
+    <configuration name="School_of_rock" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="School of Rock" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/School_of_rock.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Screen setup" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="School of Rock" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="A:\Code\CompSci\School of Rock\screenSetup.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ascii" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="School of Rock" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ascii.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="printing" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="School of Rock" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/printing.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="titles" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="School of Rock" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="A:\Code\CompSci\School of Rock\ascii.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.School_of_rock" />
+      <item itemvalue="Python.titles" />
+      <item itemvalue="Python.ascii" />
+      <item itemvalue="Python.Screen setup" />
+      <item itemvalue="Python.printing" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.School_of_rock" />
+        <item itemvalue="Python.printing" />
+        <item itemvalue="Python.Screen setup" />
+        <item itemvalue="Python.ascii" />
+        <item itemvalue="Python.titles" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",SHOW_FIELDS,ALPHA_COMPARATOR,SHOW_INHERITED" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2a87a0a2-2e52-4770-8936-fd93f9346069" name="Default Changelist" comment="" />
+      <created>1536627176872</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1536627176872</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView" selected-index="1">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4992908" weight="0.1097158" />
+      <window_info id="Structure" order="1" sideWeight="0.5006321" visible="true" weight="0.12227363" />
+      <window_info id="Favorites" order="2" sideWeight="0.50070924" weight="0.15730338" />
+      <window_info anchor="bottom" id="Version Control" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" x="0" y="23" width="1536" height="841" id="Python Console" order="1" type="WINDOWED" weight="0.32885906" />
+      <window_info anchor="bottom" id="Terminal" order="2" weight="0.32885906" />
+      <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" weight="0.3297587" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Find" order="5" weight="0.3297587" />
+      <window_info anchor="bottom" id="Debug" order="6" weight="0.57908845" />
+      <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
+      <window_info anchor="bottom" x="0" y="23" width="1536" height="841" id="Run" order="9" type="WINDOWED" weight="0.32907802" />
+      <window_info anchor="bottom" id="TODO" order="10" weight="0.28322148" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4992908" weight="0.1097158" />
+      <window_info active="true" id="Structure" order="1" sideWeight="0.5006321" visible="true" weight="0.16787839" />
+      <window_info id="Favorites" order="2" sideWeight="0.50070924" weight="0.15730338" />
+      <window_info anchor="bottom" id="Version Control" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" x="0" y="23" width="1536" height="841" id="Python Console" order="1" type="WINDOWED" weight="0.32885906" />
+      <window_info anchor="bottom" id="Terminal" order="2" weight="0.32885906" />
+      <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" weight="0.33072916" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Find" order="5" />
+      <window_info anchor="bottom" id="Debug" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
+      <window_info anchor="bottom" x="0" y="9" width="1540" height="845" id="Run" order="9" type="WINDOWED" weight="0.32907802" />
+      <window_info anchor="bottom" id="TODO" order="10" weight="0.28322148" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/School_of_rock_actions.py" />
+    <entry file="file://$PROJECT_DIR$/School_of_rock_inventory.py" />
+    <entry file="file://$PROJECT_DIR$/actions - Copy.py" />
+    <entry file="file://$PROJECT_DIR$/actions.py" />
+    <entry file="file://$PROJECT_DIR$/action_code.py" />
+    <entry file="file://$PROJECT_DIR$/choices.py" />
+    <entry file="file://$PROJECT_DIR$/(1)SchoolOfRock.txt" />
+    <entry file="file://$PROJECT_DIR$/(0)SchoolOfRock.txt" />
+    <entry file="file://$PROJECT_DIR$/inventory.py" />
+    <entry file="file://$PROJECT_DIR$/options.py" />
+    <entry file="file://$PROJECT_DIR$/senses" />
+    <entry file="file://$PROJECT_DIR$/senses.py" />
+    <entry file="file://$PROJECT_DIR$/movements.py" />
+    <entry file="file://$PROJECT_DIR$/move test.py" />
+    <entry file="file://$PROJECT_DIR$/movetest.py" />
+    <entry file="file://$PROJECT_DIR$/Secrets, Secrets.py" />
+    <entry file="file://$PROJECT_DIR$/screen.py" />
+    <entry file="file://$PROJECT_DIR$/test.py" />
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="769">
+          <caret line="1723" lean-forward="true" selection-start-line="1723" selection-end-line="1723" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/instructions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="641">
+          <caret line="67" selection-start-line="67" selection-end-line="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/printing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1120">
+          <caret line="70" lean-forward="true" selection-start-line="70" selection-end-line="70" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ascii.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-991">
+          <caret line="656" selection-start-line="656" selection-end-line="656" />
+          <folding>
+            <element signature="e#0#4#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/screenSetup.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/senses.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-335">
+          <caret line="1" column="6" lean-forward="true" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/movements.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/center.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/School_of_rock.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7660">
+          <caret line="563" lean-forward="true" selection-start-line="563" selection-end-line="563" />
+          <folding>
+            <element signature="e#67#89#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

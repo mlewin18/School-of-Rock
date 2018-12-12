@@ -1,0 +1,89 @@
+--0.1 ((standing up))
+0.10 : Get up : 0.20
+
+--0.2 ((jumping off fisher))
+0.20 : Jump off the roof : 0.30
+0.20 : Climb through the door : 1.10
+
+/////////////////////////////////// 1
+
+--1.1 ((exploring fisher))
+1.10 : Open door : 1.20
+1.10 : Closed door : 1.40
+1.10 : Exit door : 1.60
+
+--1.2 ((leaving open))
+1.20 : Closed door : 1.40
+1.20 : Exit door : 1.60
+
+--1.5 ((leaving locked))
+1.50 : Open door : 1.20
+1.50 : Exit door : 1.60
+
+--1.6 ((exiting fisher))
+1.60 : Leave : 2.10
+1.60 : Stay : 1.10
+
+/////////////////////////////////// 2
+
+--2.1 ((leaving fisher))
+2.10 : Dining hall : 3.10
+2.10 : Kendrick dorm : 4.10
+2.10 : Student union : 5.10
+2.10 : Road to town : 6.10
+
+/////////////////////////////////// 3
+
+--3.1 ((entering dining hall))
+3.10 : Enter the building : 3.20
+3.10 : Investigate the exterior : 3.60
+3.10 : Go elsewhere : 3.50
+
+--3.2 ((confronting the bird))
+3.20 : Fight for your honor : 3.21
+3.20 : Run for the entrance : 3.22
+3.20 : Ask what it wants : 3.23
+
+--3.3 ((inside the dining hall))
+3.30 : Exit the building : 3.40
+3.30 : Search the building : 3.31
+
+--3.5 ((leaving the dining hall))
+3.50 : Kendrick dorm : 4.10
+3.50 : Student union : 5.10
+3.50 : Road to town : 6.10
+
+--3.6 ((entering dining hall))
+3.60 : Enter the building : 3.20
+3.60 : Investigate the exterior : 3.60
+3.60 : Go elsewhere : 3.50
+
+/////////////////////////////////// 4
+
+--4.1 ((entering dolliver dorm))
+4.10 : Enter the building : 4.20
+4.10 : Go elsewhere : 40000
+
+/////////////////////////////////// 5
+
+--5.1 ((entering student union))
+5.10 : Enter the building : 5.20
+5.10 : Go elsewhere : 5.50
+
+--5.2 ((inside Student Union))
+5.20 : Security desk : 5.30
+5.20 : Vending machines : 5.40
+5.20 : Exit the building : 5.50
+
+--5.3 ((at security desk))
+5.30 : Vending machines : 5.40
+5.30 : Exit the building : 5.50
+
+--5.4 ((at vending machines))
+5.40 : Security desk : 5.30
+5.40 : Exit the building : 5.50
+
+--5.5 ((leaving SU))
+5.50 : Dining hall : 3.10
+5.50 : Kendrick dorm : 4.10
+5.50 : Road to town : 6.10

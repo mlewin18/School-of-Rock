@@ -1,0 +1,108 @@
+items = [
+    # {'Name': '','Description':''},
+    {'Name': 'Chewed gum', 'Description': '     Your pocket overfloweth with used gum.\n     Stimulate your senses!',
+     'img':
+    '''
+         ______
+        |   _  |
+        |_-|_|_|
+        |      |
+        | CHEW |
+        |______|
+
+    '''
+     },
+    {'Name': 'Wallet', 'Description': '     A wallet containing a student ID and two dollars.',
+     'img':
+     '''
+         ________
+        |       ||
+        |  BMF  ||
+        |_______||
+
+     '''
+     },
+    {'Name': 'Calculator watch', 'Description': '     You wield the power to complete basic mathematical operations!\n     ',
+     'img':
+'''
+         |_|
+        |[5]|
+        |:::|
+         |'|
+'''
+     },
+    {'Name': 'Small tin can', 'Description': '     The label reads "Fancy Feast."\n     '"It's half empty.",
+     'img':
+"""
+        +-----+
+        |Fancy|
+        |Feast|
+        +-----+
+"""
+     },
+    {'Name': 'Severed pinky toe', 'Description': '     You want a toe?\n     I can get you a toe.\n     Believe me.\n     There are ways, Dude.',
+     'img':
+"""
+          _
+        ||_||
+        | _ |
+        |   |
+        ^^^^^
+"""
+     },
+    {'Name': 'Bobby pin',
+     'Description': '     You lick it.\n     It tastes like home.',
+     'img':
+"""
+        <==x=
+"""
+     },
+]
+
+
+newItem = [
+    {'Name': 'Cellphone',
+     'Description':
+        """
+Holding it makes you feel powerful.
+You're filled with the urge to waste hours of your life absorbing forgettable media.
+        """,
+     "img":
+"""
+         __i
+        |---|
+        |[_]|
+        |:::|
+        |:::|
+        '---'
+"""
+},
+    {'Name': 'Lock box',
+     'Description':
+        """
+Something jangly rattles around when you shake it.
+If only you could find something to open it with...
+        """,
+     "img":
+"""
+         ________________
+        +--------------+/
+        | [0][0][0][0] ||
+        +--------------+/
+"""
+     },
+    {'Name': 'Sword',
+     'Description':
+        """
+You can see your reflection in it.
+You consider using it to pick that thing out of your teeth.
+        """,
+     'img':
+"""
+              /| _________________
+        O|===|* >________________/
+              \|
+"""
+    }
+]
+
