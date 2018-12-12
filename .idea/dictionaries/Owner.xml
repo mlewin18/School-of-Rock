@@ -16,6 +16,7 @@
       <w>cenprint</w>
       <w>chaka</w>
       <w>chapline</w>
+      <w>chappell</w>
       <w>charnum</w>
       <w>chnum</w>
       <w>choicetext</w>
@@ -36,6 +37,8 @@
       <w>hmmm</w>
       <w>ight</w>
       <w>igniter</w>
+      <w>jakeway</w>
+      <w>kapit</w>
       <w>keyser</w>
       <w>kint</w>
       <w>leng</w>
@@ -58,6 +61,7 @@
       <w>oneline</w>
       <w>ooga</w>
       <w>overfloweth</w>
+      <w>palmiero</w>
       <w>piggly</w>
       <w>pinky</w>
       <w>printlist</w>
@@ -65,6 +69,7 @@
       <w>rebecca</w>
       <w>rwidth</w>
       <w>rwidthtemp</w>
+      <w>statter</w>
       <w>strng</w>
       <w>söze</w>
       <w>tastesmell</w>
@@ -74,6 +79,7 @@
       <w>topdashlist</w>
       <w>topspacelist</w>
       <w>uncentered</w>
+      <w>wehere</w>
     </words>
   </dictionary>
 </component>
